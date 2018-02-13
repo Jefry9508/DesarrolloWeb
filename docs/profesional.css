@@ -1,0 +1,46 @@
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.jumbotron {
+	margin-top: 70px;
+	background: url(https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2f2507356905735cb7d15583034c7faa&auto=format&fit=crop&w=751&q=80);
+	background-size: cover;
+	background-position: center;
+}
+
+.jumbotron>h1 {
+	color: white;
+}
+
+ul {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	color: gray;
+}
+
+h5 {
+	text-align: center;
+	color: gray;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+p {
+	text-align: center;
+	color: gray;
+}

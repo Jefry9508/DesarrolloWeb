@@ -1,0 +1,64 @@
+body {
+	background: url(http://www.consultoresretro.com/images/marca%20de%20agua.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.jumbotron {
+	margin-top: 70px;
+	background: url(https://images.unsplash.com/photo-1477238134895-98438ad85c30?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=dcd437a3c39849ff2bf9c3f87a7adfd3&auto=format&fit=crop&w=750&q=80);
+	background-size: cover;
+	background-position: center;
+}
+
+.jumbotron>h1 {
+	color: white;
+}
+
+img{
+	border-radius: 50%;
+	height: 170px;
+    width: 250px;
+}
+
+ul {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	color: black;
+}
+
+
+hr {
+	width: 60%;
+	border-top: 5px double #8c8b8b;
+}
+
+h5 {
+	text-align: center;
+	color: gray;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+p {
+	text-align: center;
+	color: gray;
+}
